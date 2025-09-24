@@ -21,7 +21,7 @@
 - [Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)  
   *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
 - [Sales Performance Dashboard (Power BI + PySpark)](https://github.com/panwarnalini-hub/sales-performance-dashboard)  
-  *(End-to-end pipeline: PySpark data cleaning + Power BI dashboard with KPIs, Trends & Sparklines)* 
+  *(PySpark-powered data cleaning pipeline with a Power BI dashboard featuring KPIs, Sales Growth %, and regional/category trends with sparklines)* 
 
 ---
 
