@@ -19,7 +19,9 @@
 - [Executive Sales Summary (Power BI Dashboard)](https://github.com/panwarnalini-hub/executive-sales-summary)  
   *(Contoso Sales Insights: KPIs, Forecasting, Drillthrough Analysis)*  
 - [Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)  
-  *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*  
+  *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
+- [Sales Performance Dashboard (Power BI + PySpark)](https://github.com/panwarnalini-hub/sales-performance-dashboard)  
+  *(End-to-end pipeline: PySpark data cleaning + Power BI dashboard with KPIs, Trends & Sparklines)* 
 
 ---
 
