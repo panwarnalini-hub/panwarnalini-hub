@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m Nalini Panwar  
 
-🔹 **Aspiring Data Engineer & BI Analyst** passionate about turning raw data into actionable insights.  
-🔹 Skilled in **Power BI, Azure, Python, and SQL**, with hands-on projects in **data modeling, visualization, and pipelines**.  
-🔹 Currently exploring **Microsoft Fabric, Spark, and advanced DAX** to build scalable analytics solutions.  
+🔹 Data Analyst with strong foundations in SQL, Excel, and Power BI – skilled at analyzing data, building reports, and delivering actionable insights.  
+🔹 Hands-on experience with data cleaning, visualization, and dashboards using Power BI and SQL.  
+🔹 Currently enhancing skills in Python for data analysis and exploring Azure and Databricks for cloud-based analytics.  
+🔹 Passionate about transforming business data into clear, practical solutions that support decision-making.  
+🔹 Sharing projects that reflect both my professional work and continuous learning journey.  
 
 ---
 
