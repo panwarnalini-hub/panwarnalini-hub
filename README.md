@@ -18,8 +18,10 @@
 ---
 
 ### 📂 Featured Projects  
-- [Executive Sales Summary (Power BI Dashboard)](https://github.com/panwarnalini-hub/executive-sales-summary)  
-  *(Contoso Sales Insights: KPIs, Forecasting, Drillthrough Analysis)*  
+- [Executive Sales Summary (Power BI Dashboard)](https://github.com/panwarnalini-hub/executive-sales-summary) 
+  *(Contoso Sales Insights: KPIs, Forecasting, Drillthrough Analysis)*
+- [E-Commerce Growth Insights (SQL Window Functions)](https://github.com/panwarnalini-hub/sql-window-functions-ecommerce)  
+  *(SQL Window Functions project analyzing customer behavior, employee performance, and sales trends in an e-commerce scenario — Kaggle-style)*  
 - [Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)  
   *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
 - [Sales Performance Dashboard (Power BI + PySpark)](https://github.com/panwarnalini-hub/sales-performance-dashboard)  
