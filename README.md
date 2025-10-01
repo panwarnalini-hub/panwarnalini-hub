@@ -32,7 +32,7 @@
 ### 🌱 Currently Learning  
 - Advanced **Azure Data Engineering**  
 - Building **recruiter-ready BI portfolios**  
-- Practicing **SQL & Python for data management**  
+- Practicing **Python for data management**  
 
 ---
 
