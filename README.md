@@ -19,7 +19,7 @@
 ---
 
 ### Featured Projects  
-- **[Spotify Listening Analytics (Databricks + Power BI)](https://github.com/panwarnalini-hub/spotify-analytics)**  
+- **[Spotify Listening Analytics (Databricks + Pyspark + Power BI)](https://github.com/panwarnalini-hub/spotify-analytics)**  
   *(Inspired by the release of Taylor Swift’s new album, this project builds an end-to-end data pipeline using the Spotify Web API - Databricks Bronze/Silver/Gold architecture - Power BI dashboard. Features top artists, daily listening trends, and peak listening hours.)* 
 - [E-Commerce Growth Insights (SQL Window Functions)](https://github.com/panwarnalini-hub/sql-window-functions-ecommerce)  
   *(SQL Window Functions project analyzing customer behavior, employee performance, and sales trends in an e-commerce scenario in Kaggle-style)*  
