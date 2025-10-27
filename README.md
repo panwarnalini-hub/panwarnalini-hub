@@ -1,8 +1,8 @@
 ## Hi, I’m Nalini Panwar  
 
 - Data Specialist with strong foundations in SQL, Databricks, Excel, Python, and Power BI; skilled at analyzing data, building reports, and delivering actionable insights.  
-- Hands-on experience with data cleaning, visualization, and dashboards using Power BI, and SQL.  
-- Currently enhancing skills in Python for data analysis and exploring Azure and Databricks for cloud-based analytics.  
+- Hands-on experience with data cleaning, visualization, and dashboards using Power BI, Pyspark and SQL.  
+- Currently enhancing skills in Python for data analysis.  
 - Passionate about transforming business data into clear, practical solutions that support decision-making.  
 - Sharing projects that reflect both my professional work and continuous learning journey.
 
