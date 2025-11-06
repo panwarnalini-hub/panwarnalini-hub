@@ -35,8 +35,7 @@
 
 ---
 
-### Currently Learning  
-- Advanced **Azure Data Engineering**  
+### Currently Learning 
 - Practicing **Python for data management**  
 
 ---
