@@ -26,8 +26,6 @@ I enjoy creating efficient pipelines, exploring real-world datasets, and sharing
 - **[LuxeWear India Market Entry (Databricks + Python + PowerPoint)](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)**  
   *(A strategy-simulation project evaluating the feasibility of a UK premium apparel brand entering the Indian market. Built in Databricks using Python for data modeling and scenario analysis.)*  
   Features automated city-level revenue projections, premium market share sensitivity, and a PowerPoint strategy deck with executive-ready visuals.
-- **[E-Commerce Growth Insights (https://github.com/panwarnalini-hub/sql-window-functions-ecommerce)**  
-  *(SQL Window Functions project analyzing customer behavior, employee performance, and sales trends in an e-commerce scenario in Kaggle-style)*  
 - **[Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)**
   *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
 
