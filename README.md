@@ -1,10 +1,6 @@
-## Hi, I’m Nalini Panwar  
-
-- Data Specialist with strong foundations in SQL, Databricks, Excel, Python, and Power BI; skilled at analyzing data, building reports, and delivering actionable insights.  
-- Hands-on experience with data cleaning, visualization, and dashboards using Power BI, Pyspark and SQL.  
-- Currently enhancing skills in Python for data analysis.  
-- Passionate about transforming business data into clear, practical solutions that support decision-making.  
-- Sharing projects that reflect both my professional work and continuous learning journey.
+## Hi, I’m Nalini Panwar
+I work with Databricks, PySpark, Python, SQL, and Power BI to build data solutions that turn raw information into something usable.
+I enjoy creating efficient pipelines, exploring real-world datasets, and sharing what I learn through practical, technical projects on this profile.
 
 ---
 
@@ -21,6 +17,8 @@
 
 ### Featured Projects  
 
+- **[NASA Exoplanet Analysis (Databricks + PySpark + Scientific Data Exploration)](https://github.com/panwarnaraini-hub/exoplanets-databricks-analysis)**  
+*(A scientific exploration of thousands of confirmed exoplanets using Databricks with PySpark and SQL. Includes data cleaning, habitability scoring, SQL-based discovery analysis, and a simplified validation of Kepler’s laws.)*
 - **[Swiggy Restaurant Data Analysis (Databricks + PySpark+ SQL + Power BI)](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)**  
   *(A complete end-to-end project analyzing restaurant distribution, pricing, and customer ratings across Indian cities. Data cleaned and transformed in Databricks using PySpark and SQL, visualized in Power BI to uncover city-wise trends, cuisine popularity, and factors influencing ratings.)*
 - **[Spotify Listening Analytics (Databricks + PySpark + Power BI)](https://github.com/panwarnalini-hub/spotify-analytics)**  
