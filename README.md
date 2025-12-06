@@ -25,7 +25,6 @@ I enjoy creating efficient pipelines, exploring real-world datasets, and sharing
   *(Inspired by the release of Taylor Swift’s new album, this project builds an end-to-end data pipeline using the Spotify Web API - Databricks Bronze/Silver/Gold architecture - Power BI dashboard. Features top artists, daily listening trends, and peak listening hours.)*
 - **[LuxeWear India Market Entry (Databricks + Python + PowerPoint)](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)**  
   *(A strategy-simulation project evaluating the feasibility of a UK premium apparel brand entering the Indian market. Built in Databricks using Python for data modeling and scenario analysis.)*  
-  Features automated city-level revenue projections, premium market share sensitivity, and a PowerPoint strategy deck with executive-ready visuals.
 - **[Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)**
   *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
 
