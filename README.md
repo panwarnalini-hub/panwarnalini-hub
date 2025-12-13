@@ -1,6 +1,9 @@
 ## Hi, I’m Nalini Panwar
-I work with Databricks, PySpark, Python, SQL, Azure and Power BI to build data solutions that turn raw information into something usable.
-I enjoy creating efficient pipelines, exploring real-world datasets, and sharing what I learn through practical, technical projects on this profile.
+Hi, I’m Nalini Panwar, a data engineer with experience building end-to-end data pipelines using Azure, Databricks, PySpark, Python, and SQL.
+
+I focus on designing clear, reliable data workflows that turn raw data into structured, usable outputs. My work emphasizes maintainability, practical problem-solving, and thoughtful trade-offs rather than unnecessary complexity.
+
+I enjoy collaborating with cross-functional teams, learning continuously, and applying data engineering best practices to real-world problems. This profile is a collection of hands-on projects and learnings from building and refining data pipelines in applied settings.
 
 ---
 
