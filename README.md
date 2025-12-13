@@ -1,5 +1,5 @@
 ## Hi, I’m Nalini Panwar
-I work with Databricks, PySpark, Python, SQL, and Power BI to build data solutions that turn raw information into something usable.
+I work with Databricks, PySpark, Python, SQL, Azure and Power BI to build data solutions that turn raw information into something usable.
 I enjoy creating efficient pipelines, exploring real-world datasets, and sharing what I learn through practical, technical projects on this profile.
 
 ---
