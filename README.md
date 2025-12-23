@@ -20,6 +20,8 @@ I enjoy collaborating with cross-functional teams, learning continuously, and ap
 
 ### Featured Projects  
 
+- **[Medallion Data Platform for Real-Time Gesture ML Pipelines](https://github.com/panwarnalini-hub/medallion-data-platform)**  
+  *(A production-grade Medallion (Bronze-Silver-Gold) data platform built around real-time webcam-based gesture data. Captures raw vision landmarks, performs deterministic normalization and temporal alignment, and produces ML-ready feature vectors for downstream modeling. Emphasizes idempotent reprocessing, clear separation of ingestion/transform/feature layers, and clean isolation of production code from demos and orchestration scripts.)* 
 - **[NASA Exoplanet Analysis (Databricks + PySpark + Scientific Data Exploration)](https://github.com/panwarnalini-hub/exoplanets-databricks-analysis)**  
 *(A scientific exploration of thousands of confirmed exoplanets using Databricks with PySpark and SQL. Includes data cleaning, habitability scoring, SQL-based discovery analysis, and a simplified validation of Kepler’s laws.)*
 - **[Swiggy Restaurant Data Analysis (Databricks + PySpark+ SQL + Power BI)](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)**  
