@@ -1,52 +1,67 @@
-## Hi, I'm Nalini Panwar
-Hi, I'm Nalini Panwar, a data engineer with experience building end-to-end data pipelines using Azure, Databricks, PySpark, Python, and SQL.
+## Nalini Panwar
 
-I focus on designing clear, reliable data workflows that turn raw data into structured, usable outputs. My work emphasizes maintainability, practical problem-solving, and thoughtful trade-offs rather than unnecessary complexity.
+Data Engineer specializing in scalable data pipelines and analytics platforms on Azure and Databricks.
 
-I enjoy collaborating with cross-functional teams, learning continuously, and applying data engineering best practices to real-world problems. This profile is a collection of hands-on projects and learnings from building and refining data pipelines in applied settings.
-
----
-
-### Tech Stack  
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+**Focus:** Production-grade data infrastructure using medallion architecture, PySpark, and cloud-native technologies. Experience in healthcare analytics, real-time ML pipelines, and enterprise data platforms.
 
 ---
 
-### Featured Projects  
+### Technical Stack
 
-- **[Clinical Document Intelligence Pipelines (Databricks + PySpark + NLP + Streamlit)](https://github.com/panwarnalini-hub/clinical-doc-pipelines) | [Live Demo](https://clinical-doc-pipelines-ner.streamlit.app)**  
-  *(Production-grade medallion architecture for clinical trial document processing. Implements 87-category classification system and fine-tuned biomedical NER achieving 74.1% F1 score. Built with Azure Databricks, Delta Lake, Unity Catalog, and SapBERT transformers. Demonstrates scalable data engineering for healthcare analytics with composable pipeline design.)*
+**Cloud & Platforms**  
+`Azure` `Databricks` `Apache Spark` `Delta Lake` `Unity Catalog`
 
-- **[Medallion Data Platform for Real-Time Gesture ML Pipelines (Python + MediaPipe)](https://github.com/panwarnalini-hub/medallion-data-platform)**  
-  *(Production-grade Medallion (Bronze-Silver-Gold) data platform built around real-time webcam-based gesture data. Captures raw vision landmarks, performs deterministic normalization and temporal alignment, and produces ML-ready feature vectors for downstream modeling. Emphasizes idempotent reprocessing, clear separation of ingestion/transform/feature layers, and clean isolation of production code from demos and orchestration scripts.)* 
+**Languages & Data**  
+`Python` `PySpark` `SQL` `Pandas` `NumPy`
 
-- **[NASA Exoplanet Analysis (Databricks + PySpark + Scientific Data Exploration)](https://github.com/panwarnalini-hub/exoplanets-databricks-analysis) [Databricks Hackathon Submission]**  
-  *(Scientific exploration of thousands of confirmed exoplanets using Databricks with PySpark and SQL. Includes data cleaning, habitability scoring, SQL-based discovery analysis, and a simplified validation of Kepler's laws.)*
+**ML & NLP**  
+`Transformers` `HuggingFace` `scikit-learn` `Label Studio`
 
-- **[Swiggy Restaurant Data Analysis (Databricks + PySpark + SQL + Power BI)](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)**  
-  *(Complete end-to-end project analyzing restaurant distribution, pricing, and customer ratings across Indian cities. Data cleaned and transformed in Databricks using PySpark and SQL, visualized in Power BI to uncover city-wise trends, cuisine popularity, and factors influencing ratings.)*
-
-- **[Spotify Listening Analytics (Databricks + PySpark + Power BI)](https://github.com/panwarnalini-hub/spotify-analytics)**  
-  *(Inspired by the release of Taylor Swift's new album, this project builds an end-to-end data pipeline using the Spotify Web API - Databricks Bronze/Silver/Gold architecture - Power BI dashboard. Features top artists, daily listening trends, and peak listening hours.)*
-
-- **[LuxeWear India Market Entry (Databricks + Python + PowerPoint)](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)**  
-  *(Strategy-simulation project evaluating the feasibility of a UK premium apparel brand entering the Indian market. Built in Databricks using Python for data modeling and scenario analysis.)*  
-
-- **[Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)**
-  *(End-to-end pipeline with Azure Fabric, Spark, Power BI)*
+**Tools & Visualization**  
+`Power BI` `Streamlit` `Git` `Jupyter`
 
 ---
 
-Reach me at:  
+### Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalinipanwar/) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nalinipanwardata)
+**[Clinical Document Intelligence Pipelines](https://github.com/panwarnalini-hub/clinical-doc-pipelines)** | [Live Demo](https://clinical-doc-pipelines-ner.streamlit.app)  
+Production medallion architecture for clinical trial document processing. Implements 87-category classification and biomedical NER (74.1% F1). Built with Azure Databricks, Delta Lake, Unity Catalog, and fine-tuned SapBERT transformers.  
+`Databricks` `PySpark` `Delta Lake` `Transformers` `NLP`
 
-**GitHub Projects** showcase my work.
+**[Real-Time Gesture ML Pipeline](https://github.com/panwarnalini-hub/medallion-data-platform)**  
+Medallion data platform for computer vision feature engineering. Bronze-Silver-Gold architecture processing webcam landmarks into ML-ready features with deterministic normalization and temporal alignment.  
+`Python` `MediaPipe` `Computer Vision` `Feature Engineering`
+
+**[NASA Exoplanet Analysis](https://github.com/panwarnalini-hub/exoplanets-databricks-analysis)** | Databricks Hackathon  
+Scientific data exploration of 5000+ confirmed exoplanets. PySpark transformations, SQL analytics, habitability scoring, and validation of Kepler's third law.  
+`Databricks` `PySpark` `SQL` `Scientific Computing`
+
+**[Swiggy Restaurant Analytics](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)**  
+End-to-end analysis of restaurant distribution and ratings across Indian cities. Databricks data transformation with PySpark/SQL, Power BI visualization for trend analysis.  
+`Databricks` `PySpark` `SQL` `Power BI`
+
+**[Spotify Listening Analytics](https://github.com/panwarnalini-hub/spotify-analytics)**  
+Spotify Web API pipeline with Bronze-Silver-Gold architecture. Analyzes listening patterns, top artists, and daily trends with Power BI dashboards.  
+`Databricks` `PySpark` `APIs` `Power BI`
+
+**[LuxeWear India Market Entry](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)**  
+Strategy simulation for UK apparel brand market entry. Data modeling and scenario analysis in Databricks using Python.  
+`Databricks` `Python` `Business Analytics`
+
+**[Fabric Data Engineering Project](https://github.com/panwarnalini-hub/fabric-data-engineer-project)**  
+End-to-end pipeline with Azure Fabric, Spark, and Power BI.  
+`Azure Fabric` `Spark` `Power BI`
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=panwarnalini-hub&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalinipanwar/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nalinipanwardata)
+[![Streamlit](https://img.shields.io/badge/Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://clinical-doc-pipelines-ner.streamlit.app)
