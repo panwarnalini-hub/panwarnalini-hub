@@ -2,7 +2,7 @@
 
 Data Engineer specializing in scalable data pipelines and analytics platforms on Azure and Databricks.
 
-**Focus:** Production-grade data infrastructure using medallion architecture, PySpark, and cloud-native technologies. Experience in healthcare analytics, real-time ML pipelines, and enterprise data platforms.
+**Focus:** Production-grade data infrastructure using medallion architecture, PySpark, and cloud-native technologies. Experience in sales and healthcare analytics, real-time ML pipelines, and enterprise data platforms.
 
 ---
 
