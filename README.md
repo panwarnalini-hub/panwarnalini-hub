@@ -14,6 +14,28 @@ Building production-grade data pipelines and analytics platforms
 
 <div align="center">
 
+## Published Package
+
+[![PyPI version](https://badge.fury.io/py/docling-extractor.svg)](https://pypi.org/project/docling-extractor/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Downloads](https://static.pepy.tech/badge/docling-extractor)](https://pepy.tech/project/docling-extractor)
+
+**docling-extractor** - Production-grade document extraction with intelligent fallback chains
+
+```bash
+pip install docling-extractor
+```
+
+[Documentation](https://pypi.org/project/docling-extractor/) | [Source Code](https://github.com/panwarnalini-hub/clinical-doc-pipelines)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 ## Tech Stack
 
 ### Cloud & Data Platforms
@@ -62,10 +84,12 @@ Building production-grade data pipelines and analytics platforms
 ### Clinical Document Intelligence Pipelines
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/clinical-doc-pipelines)
 [![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://clinical-doc-pipelines-ner.streamlit.app)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/docling-extractor/)
 
 Production medallion architecture for clinical trial document processing.
 
 **Key Achievements:**
+- Published extraction library to PyPI
 - 87-category classification from ICH-GCP taxonomy
 - Fine-tuned SapBERT biomedical NER: **74.1% F1 score**
 - Unity Catalog governance with Delta Lake
@@ -173,6 +197,7 @@ Building scalable data solutions with Azure and Databricks
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalinipanwar/)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/panwarnalini/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nalinipanwardata)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=panwarnalini@gmail.com)
 
