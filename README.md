@@ -43,12 +43,7 @@ Building production-grade data pipelines and analytics platforms
 
 <div align="center">
 
-## GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=panwarnalini-hub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=panwarnalini-hub&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-
-<br/>
+## GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panwarnalini-hub&theme=react-dark&hide_border=true&area=true)
 
