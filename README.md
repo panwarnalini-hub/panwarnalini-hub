@@ -6,10 +6,6 @@
 
 Building production-grade data pipelines and analytics platforms
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=panwarnalini-hub&color=blueviolet&style=for-the-badge)
-
 </div>
 
 <br/>
@@ -54,10 +50,6 @@ Building production-grade data pipelines and analytics platforms
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=panwarnalini-hub&theme=algolia&hide_border=true)
-
-<br/>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panwarnalini-hub&theme=react-dark&hide_border=true&area=true)
 
 </div>
@@ -70,7 +62,7 @@ Building production-grade data pipelines and analytics platforms
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Clinical Document Intelligence Pipelines
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/clinical-doc-pipelines)
@@ -82,12 +74,11 @@ Production medallion architecture for clinical trial document processing.
 - 87-category classification from ICH-GCP taxonomy
 - Fine-tuned SapBERT biomedical NER: **74.1% F1 score**
 - Unity Catalog governance with Delta Lake
-- 8 entity types extraction
 
 **Tech:** `Databricks` `PySpark` `Delta Lake` `Transformers` `NLP`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Real-Time Gesture ML Pipeline
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/medallion-data-platform)
@@ -106,11 +97,12 @@ Medallion platform for computer vision feature engineering.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### NASA Exoplanet Analysis
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/exoplanets-databricks-analysis)
-![Hackathon](https://img.shields.io/badge/Databricks%20Hackathon-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+*Databricks Hackathon Submission*
 
 Scientific exploration of 5000+ confirmed exoplanets.
 
@@ -118,12 +110,11 @@ Scientific exploration of 5000+ confirmed exoplanets.
 - PySpark data transformations
 - SQL analytics and habitability scoring
 - Kepler's law validation
-- Orbital mechanics visualization
 
 **Tech:** `Databricks` `PySpark` `SQL` `Scientific Computing`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Swiggy Restaurant Analytics
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)
@@ -133,8 +124,7 @@ End-to-end restaurant analytics across Indian cities.
 **Key Achievements:**
 - Databricks data transformation
 - City-wise trend analysis
-- Cuisine popularity insights
-- Rating factor analysis
+- Cuisine popularity and rating insights
 
 **Tech:** `Databricks` `PySpark` `SQL` `Power BI`
 
@@ -142,7 +132,7 @@ End-to-end restaurant analytics across Indian cities.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Spotify Listening Analytics
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/spotify-analytics)
@@ -153,12 +143,11 @@ Spotify Web API pipeline with medallion architecture.
 - Real-time API data ingestion
 - Listening pattern analysis
 - Power BI dashboards
-- Daily trend detection
 
 **Tech:** `Databricks` `PySpark` `APIs` `Power BI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### LuxeWear Market Entry Strategy
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)
@@ -166,8 +155,8 @@ Spotify Web API pipeline with medallion architecture.
 Strategy simulation for UK brand entering India.
 
 **Key Achievements:**
-- Data modeling and scenarios
-- Market feasibility analysis
+- Data modeling and scenario analysis
+- Market feasibility assessment
 - Business strategy development
 
 **Tech:** `Databricks` `Python` `Business Analytics`
