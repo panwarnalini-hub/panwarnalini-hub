@@ -171,18 +171,6 @@ Strategy simulation for UK brand entering India.
 
 <div align="center">
 
-## Contribution Activity
-
-![](https://github-profile-trophy.vercel.app/?username=panwarnalini-hub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## Connect
 
 Building scalable data solutions with Azure and Databricks
