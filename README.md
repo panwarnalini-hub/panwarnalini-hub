@@ -14,19 +14,44 @@ Building production-grade data pipelines and analytics platforms
 
 <div align="center">
 
-## Published Package
+## Published Packages
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### docling-extractor
 
 [![PyPI version](https://badge.fury.io/py/docling-extractor.svg)](https://pypi.org/project/docling-extractor/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/docling-extractor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=YELLOWGREEN&left_text=downloads)](https://pepy.tech/projects/docling-extractor)
+[![Downloads](https://static.pepy.tech/personalized-badge/docling-extractor?period=total&units=international_system&left_color=black&right_color=yellowgreen&left_text=downloads)](https://pepy.tech/projects/docling-extractor)
 
-**docling-extractor** - Production-grade document extraction with intelligent fallback chains
-
+**Production-grade document extraction with intelligent fallback chains**
 ```bash
 pip install docling-extractor
 ```
 
-[Documentation](https://pypi.org/project/docling-extractor/) | [Source Code](https://github.com/panwarnalini-hub/clinical-doc-pipelines)
+[Documentation](https://pypi.org/project/docling-extractor/) | [Source](https://github.com/panwarnalini-hub/clinical-doc-pipelines)
+
+</td>
+<td width="50%" align="center">
+
+### delta-lake-utils
+
+[![PyPI version](https://badge.fury.io/py/delta-lake-utils.svg)](https://pypi.org/project/delta-lake-utils/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Downloads](https://pepy.tech/badge/delta-lake-utils)](https://pepy.tech/project/delta-lake-utils)
+
+**Production utilities for Delta Lake table management and optimization**
+```bash
+pip install delta-lake-utils
+```
+
+[Documentation](https://pypi.org/project/delta-lake-utils/) | [Source](https://github.com/panwarnalini-hub/delta-lake-utils)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -99,6 +124,27 @@ Production medallion architecture for clinical trial document processing.
 </td>
 <td width="50%" valign="top">
 
+### Delta Lake Optimization Toolkit
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/delta-lake-utils)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/delta-lake-utils/)
+
+Production-grade utilities for Delta Lake table management.
+
+**Key Achievements:**
+- Published package to PyPI
+- Smart OPTIMIZE with auto Z-ORDER
+- Table health diagnostics
+- Medallion pipeline generator
+- Unity Catalog auditor
+
+**Tech:** `Databricks` `PySpark` `Delta Lake` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### Real-Time Gesture ML Pipeline
 [![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/medallion-data-platform)
 
@@ -113,9 +159,6 @@ Medallion platform for computer vision feature engineering.
 **Tech:** `Python` `MediaPipe` `Computer Vision` `Real-Time`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### NASA Exoplanet Analysis
@@ -133,6 +176,9 @@ Scientific exploration of 5000+ confirmed exoplanets.
 **Tech:** `Databricks` `PySpark` `SQL` `Scientific Computing`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Swiggy Restaurant Analytics
@@ -148,9 +194,6 @@ End-to-end restaurant analytics across Indian cities.
 **Tech:** `Databricks` `PySpark` `SQL` `Power BI`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Spotify Listening Analytics
@@ -164,21 +207,6 @@ Spotify Web API pipeline with medallion architecture.
 - Power BI dashboards
 
 **Tech:** `Databricks` `PySpark` `APIs` `Power BI`
-
-</td>
-<td width="50%" valign="top">
-
-### LuxeWear Market Entry Strategy
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/LuxeWear_India_Market_Entry)
-
-Strategy simulation for UK brand entering India.
-
-**Key Achievements:**
-- Data modeling and scenario analysis
-- Market feasibility assessment
-- Business strategy development
-
-**Tech:** `Databricks` `Python` `Business Analytics`
 
 </td>
 </tr>
