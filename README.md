@@ -18,7 +18,7 @@ Building production-grade data pipelines and analytics platforms
 
 [![PyPI version](https://badge.fury.io/py/docling-extractor.svg)](https://pypi.org/project/docling-extractor/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Downloads](https://static.pepy.tech/badge/docling-extractor)](https://pepy.tech/project/docling-extractor)
+[![Downloads](https://pepy.tech/badge/docling-extractor)](https://pepy.tech/project/docling-extractor)
 
 **docling-extractor** - Production-grade document extraction with intelligent fallback chains
 
