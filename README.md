@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nalini%20Panwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
-### Data Engineer | Azure • Databricks • PySpark
-
-Building production-grade data pipelines and analytics platforms
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=800&lines=Nalini+Panwar;Data+Engineer+%7C+Azure+%E2%80%A2+Databricks;Building+Production+Data+Pipelines" alt="Typing SVG" />
 
 </div>
 
@@ -230,7 +226,5 @@ Building scalable data solutions with Azure and Databricks
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=panwarnalini@gmail.com)
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
