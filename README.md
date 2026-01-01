@@ -40,7 +40,7 @@ pip install docling-extractor
 
 [![PyPI version](https://badge.fury.io/py/delta-lake-utils.svg)](https://pypi.org/project/delta-lake-utils/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Downloads](https://pepy.tech/badge/delta-lake-utils)](https://pepy.tech/project/delta-lake-utils)
+[![Downloads](https://static.pepy.tech/personalized-badge/delta-lake-utils?period=total&units=international_system&left_color=black&right_color=yellowgreen&left_text=downloads)](https://pepy.tech/projects/delta-lake-utils)
 
 **Production utilities for Delta Lake table management and optimization**
 ```bash
