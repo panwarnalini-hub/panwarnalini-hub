@@ -177,17 +177,19 @@ Scientific exploration of 5000+ confirmed exoplanets.
 <tr>
 <td width="50%" valign="top">
 
-### Swiggy Restaurant Analytics
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/swiggy-restaurant-data-analysis)
+### Real-Time Stock Market Analytics
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/realtime-stock-analytics)
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://realtime-stock-analytics.streamlit.app)
 
-End-to-end restaurant analytics across Indian cities.
+Production-grade stock market analytics pipeline with medallion architecture and live dashboard.
 
 **Key Achievements:**
-- Databricks data transformation
-- City-wise trend analysis
-- Cuisine popularity and rating insights
+- Near real-time stock ingestion with API rate-limit awareness
+- Bronze–Silver–Gold pipeline on Databricks
+- Delta Lake storage with partitioning
+- Interactive Streamlit dashboard for ad-hoc analysis
 
-**Tech:** `Databricks` `PySpark` `SQL` `Power BI`
+**Tech:** `Databricks` `PySpark` `Delta Lake` `Streamlit` `APIs`
 
 </td>
 <td width="50%" valign="top">
