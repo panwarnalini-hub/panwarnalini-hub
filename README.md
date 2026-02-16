@@ -147,7 +147,7 @@ Production-grade utilities for Delta Lake table management.
 Medallion platform for computer vision feature engineering.
 
 **Key Achievements:**
-- Bronze-Silver-Gold architecture
+- Bronze–Silver–Gold architecture
 - Real-time webcam landmark processing
 - 21 hand + 468 face landmarks
 - ML-ready feature vectors
@@ -167,7 +167,7 @@ Scientific exploration of 5000+ confirmed exoplanets.
 **Key Achievements:**
 - PySpark data transformations
 - SQL analytics and habitability scoring
-- Kepler's law validation
+- Kepler’s law validation
 
 **Tech:** `Databricks` `PySpark` `SQL` `Scientific Computing`
 
@@ -187,34 +187,30 @@ Production-grade stock market analytics pipeline with medallion architecture and
 - Near real-time stock ingestion with API rate-limit awareness
 - Bronze–Silver–Gold pipeline on Databricks
 - Delta Lake storage with partitioning
-- Interactive Streamlit dashboard for ad-hoc analysis
+- Interactive Streamlit dashboard
 
 **Tech:** `Databricks` `PySpark` `Delta Lake` `Streamlit` `APIs`
 
 </td>
 <td width="50%" valign="top">
 
-### Spotify Listening Analytics
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/spotify-analytics)
+### Mining Telemetry Data Pipeline
+[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panwarnalini-hub/mining-telemetry-pipeline)
+[![Dashboard](https://img.shields.io/badge/Databricks%20Dashboard-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://dbc-d8366690-f1bb.cloud.databricks.com/dashboardsv3/01f104660f6514db89a214cf38d7de2c/published?o=3512094000927316)
 
-Spotify Web API pipeline with medallion architecture.
+End-to-end telemetry ingestion and analytics pipeline for mining operations.
 
 **Key Achievements:**
-- Real-time API data ingestion
-- Listening pattern analysis
-- Power BI dashboards
+- High-volume telemetry ingestion
+- Bronze–Silver–Gold architecture
+- KPI-ready analytics layer
+- Production Databricks dashboard
 
-**Tech:** `Databricks` `PySpark` `APIs` `Power BI`
+**Tech:** `Databricks` `PySpark` `Delta Lake` `Telemetry` `Analytics`
 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<div align="center">
 
 ## Connect
 
