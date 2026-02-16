@@ -95,7 +95,8 @@ pip install delta-lake-utils
 <br/>
 
 ---
-
+<div align="center">
+  
 ## Featured Projects
 
 <table>
@@ -212,6 +213,8 @@ End-to-end telemetry ingestion and analytics pipeline for mining operations.
 </tr>
 </table>
 
+<div align="center">
+  
 ## Connect
 
 Building scalable data solutions with Azure and Databricks
